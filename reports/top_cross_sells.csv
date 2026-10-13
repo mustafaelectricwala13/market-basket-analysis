@@ -1,0 +1,73 @@
+Primary Item,Recommended Add-On,Confidence (%),Lift,Support (%),Strategy
+Basmati Rice,Onions,55.3,4.123,13.11,Display 'Onions' when customer adds 'Basmati Rice' to cart
+Basmati Rice,Tomatoes,55.3,4.123,13.11,Display 'Tomatoes' when customer adds 'Basmati Rice' to cart
+Basmati Rice,Conditioner,69.4,3.398,3.77,Display 'Conditioner' when customer adds 'Basmati Rice' to cart
+Butter,Conditioner,68.7,3.364,5.21,Display 'Conditioner' when customer adds 'Butter' to cart
+Butter,Basmati Rice,79.1,3.337,6.4,Display 'Basmati Rice' when customer adds 'Butter' to cart
+Butter,Onions,80.5,3.336,6.4,Display 'Onions' when customer adds 'Butter' to cart
+Conditioner,Shampoo,78.5,3.415,3.77,Display 'Shampoo' when customer adds 'Conditioner' to cart
+Conditioner,Butter,25.5,3.364,5.21,Display 'Butter' when customer adds 'Conditioner' to cart
+Conditioner,Olive Oil,80.0,3.336,3.85,Display 'Olive Oil' when customer adds 'Conditioner' to cart
+Cookies,Onions,81.6,3.381,3.41,Display 'Onions' when customer adds 'Cookies' to cart
+Cookies,Basmati Rice,79.7,3.36,3.41,Display 'Basmati Rice' when customer adds 'Cookies' to cart
+Cookies,Pasta,79.1,3.285,3.25,Display 'Pasta' when customer adds 'Cookies' to cart
+Dark Chocolate,Basmati Rice,78.7,3.318,4.46,Display 'Basmati Rice' when customer adds 'Dark Chocolate' to cart
+Dark Chocolate,Toothbrush,77.5,3.276,3.48,Display 'Toothbrush' when customer adds 'Dark Chocolate' to cart
+Dark Chocolate,Pasta,78.8,3.276,4.25,Display 'Pasta' when customer adds 'Dark Chocolate' to cart
+Eggs (12pk),Pasta,80.6,3.348,3.36,Display 'Pasta' when customer adds 'Eggs (12pk)' to cart
+Eggs (12pk),Olive Oil,79.6,3.319,3.36,Display 'Olive Oil' when customer adds 'Eggs (12pk)' to cart
+Eggs (12pk),Onions,80.0,3.317,3.33,Display 'Onions' when customer adds 'Eggs (12pk)' to cart
+Green Tea,Dark Chocolate,67.5,2.858,3.69,Display 'Dark Chocolate' when customer adds 'Green Tea' to cart
+Green Tea,Wireless Mouse,25.4,2.858,3.94,Display 'Wireless Mouse' when customer adds 'Green Tea' to cart
+Green Tea,Butter,78.8,2.367,4.31,Display 'Butter' when customer adds 'Green Tea' to cart
+Ground Coffee,Basmati Rice,80.0,3.374,4.28,Display 'Basmati Rice' when customer adds 'Ground Coffee' to cart
+Ground Coffee,Pasta,81.0,3.366,4.27,Display 'Pasta' when customer adds 'Ground Coffee' to cart
+Ground Coffee,Shampoo,77.1,3.35,3.56,Display 'Shampoo' when customer adds 'Ground Coffee' to cart
+Laptop Stand,Mechanical Keyboard,90.6,3.81,11.19,Display 'Mechanical Keyboard' when customer adds 'Laptop Stand' to cart
+Laptop Stand,Wireless Mouse,67.4,3.491,11.19,Display 'Wireless Mouse' when customer adds 'Laptop Stand' to cart
+Laptop Stand,White Bread,89.4,2.408,4.71,Display 'White Bread' when customer adds 'Laptop Stand' to cart
+Mechanical Keyboard,Wireless Mouse,47.1,3.81,11.19,Display 'Wireless Mouse' when customer adds 'Mechanical Keyboard' to cart
+Mechanical Keyboard,Laptop Stand,47.1,3.81,11.19,Display 'Laptop Stand' when customer adds 'Mechanical Keyboard' to cart
+Mechanical Keyboard,Onions,81.5,3.378,4.45,Display 'Onions' when customer adds 'Mechanical Keyboard' to cart
+Mouse Pad,Onions,81.8,3.388,3.63,Display 'Onions' when customer adds 'Mouse Pad' to cart
+Mouse Pad,Olive Oil,80.6,3.359,3.65,Display 'Olive Oil' when customer adds 'Mouse Pad' to cart
+Mouse Pad,Basmati Rice,79.4,3.35,3.63,Display 'Basmati Rice' when customer adds 'Mouse Pad' to cart
+Olive Oil,Pasta,63.3,4.104,15.19,Display 'Pasta' when customer adds 'Olive Oil' to cart
+Olive Oil,Tomato Sauce,63.3,4.104,15.19,Display 'Tomato Sauce' when customer adds 'Olive Oil' to cart
+Olive Oil,Shampoo,78.5,3.415,3.77,Display 'Shampoo' when customer adds 'Olive Oil' to cart
+Onions,Basmati Rice,97.8,4.123,13.11,Display 'Basmati Rice' when customer adds 'Onions' to cart
+Onions,Tomatoes,54.3,4.064,13.11,Display 'Tomatoes' when customer adds 'Onions' to cart
+Onions,Conditioner,69.5,3.404,3.79,Display 'Conditioner' when customer adds 'Onions' to cart
+Pasta,Olive Oil,98.4,4.104,15.19,Display 'Olive Oil' when customer adds 'Pasta' to cart
+Pasta,Tomato Sauce,63.1,4.069,15.19,Display 'Tomato Sauce' when customer adds 'Pasta' to cart
+Pasta,Shampoo,77.5,3.372,3.73,Display 'Shampoo' when customer adds 'Pasta' to cart
+Potato Chips,Onions,79.8,3.306,4.22,Display 'Onions' when customer adds 'Potato Chips' to cart
+Potato Chips,Olive Oil,78.6,3.277,4.23,Display 'Olive Oil' when customer adds 'Potato Chips' to cart
+Potato Chips,Shampoo,75.0,3.263,3.49,Display 'Shampoo' when customer adds 'Potato Chips' to cart
+Shampoo,Conditioner,69.5,3.404,3.79,Display 'Conditioner' when customer adds 'Shampoo' to cart
+Shampoo,Olive Oil,79.4,3.309,4.43,Display 'Olive Oil' when customer adds 'Shampoo' to cart
+Shampoo,Pasta,79.4,3.298,4.43,Display 'Pasta' when customer adds 'Shampoo' to cart
+Soda Can,Olive Oil,79.6,3.319,3.28,Display 'Olive Oil' when customer adds 'Soda Can' to cart
+Soda Can,Onions,79.3,3.285,3.29,Display 'Onions' when customer adds 'Soda Can' to cart
+Soda Can,Basmati Rice,76.9,3.242,3.29,Display 'Basmati Rice' when customer adds 'Soda Can' to cart
+Tomato Sauce,Olive Oil,98.4,4.104,15.19,Display 'Olive Oil' when customer adds 'Tomato Sauce' to cart
+Tomato Sauce,Pasta,97.9,4.069,15.19,Display 'Pasta' when customer adds 'Tomato Sauce' to cart
+Tomato Sauce,Conditioner,68.1,3.334,3.16,Display 'Conditioner' when customer adds 'Tomato Sauce' to cart
+Tomatoes,Basmati Rice,97.8,4.123,13.11,Display 'Basmati Rice' when customer adds 'Tomatoes' to cart
+Tomatoes,Onions,98.1,4.064,13.11,Display 'Onions' when customer adds 'Tomatoes' to cart
+Tomatoes,Olive Oil,78.9,3.289,3.44,Display 'Olive Oil' when customer adds 'Tomatoes' to cart
+Toothbrush,Shampoo,76.4,3.32,3.62,Display 'Shampoo' when customer adds 'Toothbrush' to cart
+Toothbrush,Basmati Rice,78.3,3.301,4.43,Display 'Basmati Rice' when customer adds 'Toothbrush' to cart
+Toothbrush,Conditioner,67.3,3.294,3.62,Display 'Conditioner' when customer adds 'Toothbrush' to cart
+Toothpaste,Toothbrush,79.5,3.362,3.77,Display 'Toothbrush' when customer adds 'Toothpaste' to cart
+Toothpaste,Basmati Rice,78.5,3.309,3.68,Display 'Basmati Rice' when customer adds 'Toothpaste' to cart
+Toothpaste,Pasta,79.3,3.295,3.68,Display 'Pasta' when customer adds 'Toothpaste' to cart
+White Bread,Basmati Rice,79.8,3.365,7.22,Display 'Basmati Rice' when customer adds 'White Bread' to cart
+White Bread,Olive Oil,80.4,3.35,7.29,Display 'Olive Oil' when customer adds 'White Bread' to cart
+White Bread,Conditioner,68.1,3.335,5.92,Display 'Conditioner' when customer adds 'White Bread' to cart
+Whole Milk,Conditioner,69.5,3.402,3.85,Display 'Conditioner' when customer adds 'Whole Milk' to cart
+Whole Milk,Onions,80.8,3.35,4.43,Display 'Onions' when customer adds 'Whole Milk' to cart
+Whole Milk,Olive Oil,80.3,3.348,4.57,Display 'Olive Oil' when customer adds 'Whole Milk' to cart
+Wireless Mouse,Mechanical Keyboard,90.6,3.81,11.19,Display 'Mechanical Keyboard' when customer adds 'Wireless Mouse' to cart
+Wireless Mouse,Laptop Stand,58.0,3.491,11.19,Display 'Laptop Stand' when customer adds 'Wireless Mouse' to cart
+Wireless Mouse,Onions,81.7,3.386,7.01,Display 'Onions' when customer adds 'Wireless Mouse' to cart

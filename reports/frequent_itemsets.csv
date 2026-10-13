@@ -1,0 +1,579 @@
+items_str,length,count,support
+Wireless Mouse,1,5686,0.3791
+White Bread,1,5568,0.3712
+Butter,1,4994,0.3329
+"Butter, White Bread",2,4365,0.291
+Onions,1,3619,0.2413
+Pasta,1,3610,0.2407
+Olive Oil,1,3599,0.2399
+Mechanical Keyboard,1,3567,0.2378
+Whole Milk,1,3562,0.2375
+Basmati Rice,1,3557,0.2371
+Toothbrush,1,3549,0.2366
+Dark Chocolate,1,3540,0.236
+Ground Coffee,1,3513,0.2342
+Potato Chips,1,3504,0.2336
+Shampoo,1,3450,0.23
+Tomato Sauce,1,3107,0.2071
+Toothpaste,1,3084,0.2056
+Conditioner,1,3065,0.2043
+Mouse Pad,1,2996,0.1997
+"Mechanical Keyboard, Wireless Mouse",2,2895,0.193
+"White Bread, Whole Milk",2,2865,0.191
+"Olive Oil, Pasta",2,2812,0.1875
+"Basmati Rice, Onions",2,2803,0.1869
+Tomatoes,1,2769,0.1846
+Cookies,1,2757,0.1838
+Soda Can,1,2718,0.1812
+Eggs (12pk),1,2686,0.1791
+Laptop Stand,1,2491,0.1661
+"Mouse Pad, Wireless Mouse",2,2401,0.1601
+"Olive Oil, Tomato Sauce",2,2327,0.1551
+"Butter, Whole Milk",2,2323,0.1549
+Green Tea,1,2324,0.1549
+"Toothbrush, Toothpaste",2,2314,0.1543
+"Pasta, Tomato Sauce",2,2315,0.1543
+"Conditioner, Shampoo",2,2290,0.1527
+"Butter, White Bread, Whole Milk",3,2285,0.1523
+"Olive Oil, Pasta, Tomato Sauce",3,2278,0.1519
+"White Bread, Wireless Mouse",2,2107,0.1405
+"Onions, Tomatoes",2,2012,0.1341
+"Basmati Rice, Tomatoes",2,2005,0.1337
+"Eggs (12pk), White Bread",2,2000,0.1333
+"Potato Chips, Soda Can",2,1980,0.132
+"Butter, Eggs (12pk)",2,1971,0.1314
+"Basmati Rice, Onions, Tomatoes",3,1966,0.1311
+"Cookies, Ground Coffee",2,1951,0.1301
+"Butter, Eggs (12pk), White Bread",3,1930,0.1287
+"Laptop Stand, Wireless Mouse",2,1852,0.1235
+"Butter, Wireless Mouse",2,1844,0.1229
+"Laptop Stand, Mechanical Keyboard",2,1716,0.1144
+"Laptop Stand, Mechanical Keyboard, Wireless Mouse",3,1679,0.1119
+"Butter, White Bread, Wireless Mouse",3,1629,0.1086
+"Dark Chocolate, Green Tea",2,1524,0.1016
+"Olive Oil, White Bread",2,1389,0.0926
+"Pasta, White Bread",2,1360,0.0907
+"Onions, White Bread",2,1358,0.0905
+"Olive Oil, Wireless Mouse",2,1354,0.0903
+"Basmati Rice, White Bread",2,1352,0.0901
+"Potato Chips, White Bread",2,1350,0.09
+"Pasta, Wireless Mouse",2,1349,0.0899
+"Onions, Wireless Mouse",2,1348,0.0899
+"Ground Coffee, Wireless Mouse",2,1337,0.0891
+"Dark Chocolate, Wireless Mouse",2,1335,0.089
+"Potato Chips, Wireless Mouse",2,1332,0.0888
+"Ground Coffee, White Bread",2,1322,0.0881
+"Whole Milk, Wireless Mouse",2,1320,0.088
+"Toothbrush, White Bread",2,1314,0.0876
+"Shampoo, White Bread",2,1304,0.0869
+"Basmati Rice, Wireless Mouse",2,1287,0.0858
+"Mechanical Keyboard, White Bread",2,1287,0.0858
+"Dark Chocolate, White Bread",2,1286,0.0857
+"Shampoo, Wireless Mouse",2,1282,0.0855
+"Toothbrush, Wireless Mouse",2,1277,0.0851
+"Butter, Olive Oil",2,1214,0.0809
+"Butter, Onions",2,1213,0.0809
+"Tomato Sauce, White Bread",2,1207,0.0805
+"Basmati Rice, Butter",2,1192,0.0795
+"Butter, Potato Chips",2,1193,0.0795
+"Butter, Ground Coffee",2,1187,0.0791
+"Butter, Toothbrush",2,1180,0.0787
+"Butter, Pasta",2,1179,0.0786
+"Conditioner, White Bread",2,1172,0.0781
+"Tomato Sauce, Wireless Mouse",2,1165,0.0777
+"Butter, Mechanical Keyboard",2,1150,0.0767
+"Conditioner, Wireless Mouse",2,1145,0.0763
+"Butter, Dark Chocolate",2,1141,0.0761
+"Butter, Shampoo",2,1137,0.0758
+"Toothpaste, White Bread",2,1116,0.0744
+"Mouse Pad, White Bread",2,1114,0.0743
+"Toothpaste, Wireless Mouse",2,1102,0.0735
+"Olive Oil, Pasta, White Bread",3,1093,0.0729
+"White Bread, Whole Milk, Wireless Mouse",3,1088,0.0725
+Orange Juice,1,1086,0.0724
+"Basmati Rice, Onions, White Bread",3,1083,0.0722
+"Butter, Olive Oil, White Bread",3,1075,0.0717
+"Butter, Onions, White Bread",3,1073,0.0715
+"Olive Oil, Pasta, Wireless Mouse",3,1069,0.0713
+"Butter, Potato Chips, White Bread",3,1066,0.0711
+Croissants,1,1063,0.0709
+"Mechanical Keyboard, White Bread, Wireless Mouse",3,1060,0.0707
+"Basmati Rice, Butter, White Bread",3,1059,0.0706
+"Butter, Ground Coffee, White Bread",3,1056,0.0704
+Face Wash,1,1055,0.0703
+"Butter, Tomato Sauce",2,1052,0.0701
+"Basmati Rice, Onions, Wireless Mouse",3,1052,0.0701
+"Butter, Pasta, White Bread",3,1049,0.0699
+"Soda Can, White Bread",2,1044,0.0696
+USB-C Cable,1,1041,0.0694
+Yogurt,1,1038,0.0692
+"Butter, Toothbrush, White Bread",3,1036,0.0691
+HDMI Cable,1,1037,0.0691
+"Soda Can, Wireless Mouse",2,1031,0.0687
+"Butter, Conditioner",2,1029,0.0686
+Garlic Paste,1,1026,0.0684
+"Tomatoes, White Bread",2,1026,0.0684
+"Cookies, Wireless Mouse",2,1024,0.0683
+"Butter, Shampoo, White Bread",3,1022,0.0681
+Brown Bread,1,1021,0.0681
+Hand Sanitizer,1,1022,0.0681
+"Butter, Toothpaste",2,1021,0.0681
+Body Wash,1,1014,0.0676
+"Tomatoes, Wireless Mouse",2,1000,0.0667
+"Butter, Dark Chocolate, White Bread",3,1000,0.0667
+"Butter, Mechanical Keyboard, White Bread",3,999,0.0666
+Cheese Slices,1,996,0.0664
+Black Pepper,1,996,0.0664
+"Cookies, White Bread",2,993,0.0662
+"Eggs (12pk), Wireless Mouse",2,982,0.0655
+"Butter, Mouse Pad",2,962,0.0641
+"Basmati Rice, Butter, Onions",3,960,0.064
+"Butter, Soda Can",2,942,0.0628
+"Butter, Mechanical Keyboard, Wireless Mouse",3,940,0.0627
+"Butter, Olive Oil, Pasta",3,940,0.0627
+"Butter, Tomato Sauce, White Bread",3,937,0.0625
+"Butter, Conditioner, White Bread",3,925,0.0617
+"Butter, Tomatoes",2,919,0.0613
+"Butter, Cookies",2,905,0.0603
+"Laptop Stand, White Bread",2,904,0.0603
+"Mouse Pad, White Bread, Wireless Mouse",3,903,0.0602
+"Olive Oil, Tomato Sauce, White Bread",3,901,0.0601
+"Pasta, Tomato Sauce, White Bread",3,895,0.0597
+"Butter, Toothpaste, White Bread",3,889,0.0593
+"Conditioner, Shampoo, White Bread",3,888,0.0592
+"Green Tea, Wireless Mouse",2,880,0.0587
+"Olive Oil, Tomato Sauce, Wireless Mouse",3,876,0.0584
+"Potato Chips, Whole Milk",2,871,0.0581
+"Pasta, Tomato Sauce, Wireless Mouse",3,870,0.058
+"Butter, Whole Milk, Wireless Mouse",3,870,0.058
+"Olive Oil, Whole Milk",2,870,0.058
+"Onions, Pasta",2,865,0.0577
+"Olive Oil, Onions",2,864,0.0576
+"Mechanical Keyboard, Potato Chips",2,863,0.0575
+"Basmati Rice, Dark Chocolate",2,855,0.057
+"Mechanical Keyboard, Olive Oil",2,854,0.0569
+"Pasta, Whole Milk",2,853,0.0569
+"Basmati Rice, Olive Oil",2,850,0.0567
+"Basmati Rice, Toothbrush",2,851,0.0567
+"Mechanical Keyboard, Pasta",2,850,0.0567
+"Dark Chocolate, Onions",2,851,0.0567
+"Butter, Mouse Pad, White Bread",3,850,0.0567
+"Onions, Toothbrush",2,849,0.0566
+"Onions, Whole Milk",2,847,0.0565
+"Mechanical Keyboard, Onions",2,847,0.0565
+"Toothbrush, Toothpaste, White Bread",3,845,0.0563
+"Basmati Rice, Pasta",2,843,0.0562
+"Conditioner, Shampoo, Wireless Mouse",3,842,0.0561
+"Ground Coffee, Whole Milk",2,842,0.0561
+"Olive Oil, Shampoo",2,837,0.0558
+"Pasta, Shampoo",2,837,0.0558
+"Ground Coffee, Mechanical Keyboard",2,835,0.0557
+"Toothbrush, Whole Milk",2,831,0.0554
+"Shampoo, Whole Milk",2,831,0.0554
+"Butter, Soda Can, White Bread",3,830,0.0553
+"Dark Chocolate, Potato Chips",2,829,0.0553
+"Dark Chocolate, Ground Coffee",2,825,0.055
+"Olive Oil, Potato Chips",2,824,0.0549
+"Dark Chocolate, Mechanical Keyboard",2,824,0.0549
+"Mechanical Keyboard, Shampoo",2,823,0.0549
+"Mechanical Keyboard, Toothbrush",2,822,0.0548
+"Basmati Rice, Whole Milk",2,822,0.0548
+"Ground Coffee, Potato Chips",2,821,0.0547
+"Dark Chocolate, Whole Milk",2,820,0.0547
+"Green Tea, White Bread",2,821,0.0547
+"Onions, Potato Chips",2,821,0.0547
+"Dark Chocolate, Pasta",2,820,0.0547
+"Basmati Rice, Mechanical Keyboard",2,819,0.0546
+"Onions, Shampoo",2,817,0.0545
+"Ground Coffee, Pasta",2,815,0.0543
+"Basmati Rice, Shampoo",2,815,0.0543
+"Mechanical Keyboard, Whole Milk",2,813,0.0542
+"Ground Coffee, Toothbrush",2,811,0.0541
+"Pasta, Toothbrush",2,810,0.054
+"Dark Chocolate, Olive Oil",2,809,0.0539
+"Toothbrush, Toothpaste, Wireless Mouse",3,809,0.0539
+"Dark Chocolate, Toothbrush",2,807,0.0538
+"Shampoo, Toothbrush",2,807,0.0538
+"Pasta, Potato Chips",2,807,0.0538
+"Butter, Tomatoes, White Bread",3,807,0.0538
+"Ground Coffee, Onions",2,803,0.0535
+"Basmati Rice, Ground Coffee",2,795,0.053
+"Ground Coffee, Shampoo",2,793,0.0529
+"Butter, Cookies, White Bread",3,794,0.0529
+"Basmati Rice, Potato Chips",2,793,0.0529
+"Ground Coffee, Olive Oil",2,791,0.0527
+"Butter, Laptop Stand",2,791,0.0527
+"Butter, Mouse Pad, Wireless Mouse",3,788,0.0525
+"Potato Chips, Shampoo",2,786,0.0524
+"Butter, Conditioner, Shampoo",3,782,0.0521
+"Olive Oil, Toothbrush",2,780,0.052
+"Potato Chips, Soda Can, White Bread",3,776,0.0517
+"Butter, Toothbrush, Toothpaste",3,769,0.0513
+"Butter, Olive Oil, Tomato Sauce",3,769,0.0513
+"Butter, Pasta, Tomato Sauce",3,764,0.0509
+"Conditioner, Whole Milk",2,763,0.0509
+"Dark Chocolate, Shampoo",2,763,0.0509
+"Onions, Tomatoes, White Bread",3,759,0.0506
+"Basmati Rice, Tomatoes, White Bread",3,758,0.0505
+"Tomato Sauce, Whole Milk",2,756,0.0504
+"Potato Chips, Toothbrush",2,754,0.0503
+"Potato Chips, Soda Can, Wireless Mouse",3,755,0.0503
+"Eggs (12pk), White Bread, Wireless Mouse",3,751,0.0501
+"Butter, Green Tea",2,752,0.0501
+"Conditioner, Onions",2,746,0.0497
+"Onions, Tomato Sauce",2,746,0.0497
+"Onions, Tomatoes, Wireless Mouse",3,739,0.0493
+"Ground Coffee, Toothpaste",2,738,0.0492
+"Butter, Eggs (12pk), Wireless Mouse",3,738,0.0492
+"Basmati Rice, Conditioner",2,736,0.0491
+"Basmati Rice, Tomatoes, Wireless Mouse",3,737,0.0491
+"Basmati Rice, Tomato Sauce",2,735,0.049
+"Olive Oil, White Bread, Whole Milk",3,725,0.0483
+"Mechanical Keyboard, Tomato Sauce",2,723,0.0482
+"Toothpaste, Whole Milk",2,721,0.0481
+"Cookies, Ground Coffee, Wireless Mouse",3,721,0.0481
+"Cookies, Ground Coffee, White Bread",3,721,0.0481
+"Potato Chips, White Bread, Whole Milk",3,722,0.0481
+"Ground Coffee, Mouse Pad",2,722,0.0481
+"Conditioner, Pasta",2,722,0.0481
+"Conditioner, Olive Oil",2,720,0.048
+"Ground Coffee, Tomato Sauce",2,715,0.0477
+"Pasta, Toothpaste",2,716,0.0477
+"Onions, White Bread, Whole Milk",3,714,0.0476
+"Conditioner, Toothbrush",2,711,0.0474
+"Basmati Rice, Toothpaste",2,711,0.0474
+"Mechanical Keyboard, Potato Chips, Wireless Mouse",3,710,0.0473
+"Shampoo, Toothpaste",2,709,0.0473
+"Mouse Pad, Olive Oil",2,710,0.0473
+"Mouse Pad, Whole Milk",2,709,0.0473
+"Butter, Laptop Stand, White Bread",3,706,0.0471
+"Mechanical Keyboard, Toothpaste",2,705,0.047
+"Mechanical Keyboard, Mouse Pad",2,705,0.047
+"Conditioner, Mechanical Keyboard",2,703,0.0469
+"Onions, Toothpaste",2,703,0.0469
+"Dark Chocolate, Mouse Pad",2,702,0.0468
+"Pasta, White Bread, Whole Milk",3,699,0.0466
+"Conditioner, Potato Chips",2,697,0.0465
+"Mouse Pad, Potato Chips",2,697,0.0465
+"Mechanical Keyboard, Olive Oil, Wireless Mouse",3,697,0.0465
+"Mechanical Keyboard, Pasta, Wireless Mouse",3,696,0.0464
+"Basmati Rice, White Bread, Whole Milk",3,696,0.0464
+"Olive Oil, Toothpaste",2,696,0.0464
+"Shampoo, Tomato Sauce",2,696,0.0464
+"Conditioner, Ground Coffee",2,693,0.0462
+"Butter, Potato Chips, Soda Can",3,693,0.0462
+"Ground Coffee, White Bread, Whole Milk",3,691,0.0461
+"Potato Chips, Tomato Sauce",2,692,0.0461
+"Mechanical Keyboard, Onions, Wireless Mouse",3,688,0.0459
+"Mouse Pad, Onions",2,686,0.0457
+"Olive Oil, Pasta, Whole Milk",3,686,0.0457
+"Toothbrush, White Bread, Whole Milk",3,682,0.0455
+"Mouse Pad, Shampoo",2,681,0.0454
+"Dark Chocolate, Mechanical Keyboard, Wireless Mouse",3,681,0.0454
+"Mechanical Keyboard, Olive Oil, Pasta",3,679,0.0453
+"Dark Chocolate, Tomato Sauce",2,680,0.0453
+"Mouse Pad, Pasta",2,680,0.0453
+"Soda Can, Whole Milk",2,678,0.0452
+"Olive Oil, Onions, Pasta",3,678,0.0452
+"Ground Coffee, Mechanical Keyboard, Wireless Mouse",3,676,0.0451
+"Conditioner, Dark Chocolate",2,675,0.045
+"Shampoo, White Bread, Whole Milk",3,674,0.0449
+"Basmati Rice, Olive Oil, Onions",3,673,0.0449
+"Dark Chocolate, Toothpaste",2,673,0.0449
+"Mechanical Keyboard, Toothbrush, Wireless Mouse",3,672,0.0448
+"Mechanical Keyboard, Shampoo, Wireless Mouse",3,670,0.0447
+"Cookies, Dark Chocolate",2,670,0.0447
+"Tomato Sauce, Toothbrush",2,669,0.0446
+"Basmati Rice, Dark Chocolate, Onions",3,669,0.0446
+"Basmati Rice, Butter, Tomatoes",3,668,0.0445
+"Butter, Onions, Tomatoes",3,668,0.0445
+"Basmati Rice, Mechanical Keyboard, Onions",3,668,0.0445
+"Olive Oil, Tomatoes",2,666,0.0444
+"Mechanical Keyboard, Mouse Pad, Wireless Mouse",3,666,0.0444
+"Basmati Rice, Mouse Pad",2,666,0.0444
+"Olive Oil, Pasta, Shampoo",3,664,0.0443
+"Butter, Cookies, Ground Coffee",3,665,0.0443
+"Basmati Rice, Onions, Whole Milk",3,665,0.0443
+"Basmati Rice, Onions, Toothbrush",3,665,0.0443
+"Dark Chocolate, White Bread, Whole Milk",3,664,0.0443
+"Mechanical Keyboard, White Bread, Whole Milk",3,663,0.0442
+"Laptop Stand, White Bread, Wireless Mouse",3,662,0.0441
+"Basmati Rice, Mechanical Keyboard, Wireless Mouse",3,662,0.0441
+"Potato Chips, Toothpaste",2,660,0.044
+"Mechanical Keyboard, Whole Milk, Wireless Mouse",3,658,0.0439
+"Basmati Rice, Olive Oil, Pasta",3,659,0.0439
+"Basmati Rice, Onions, Pasta",3,655,0.0437
+"Ground Coffee, Tomatoes",2,655,0.0437
+"Eggs (12pk), Potato Chips",2,654,0.0436
+"Pasta, Tomatoes",2,654,0.0436
+"Mouse Pad, Toothbrush",2,651,0.0434
+"Tomatoes, Toothbrush",2,651,0.0434
+"Dark Chocolate, Soda Can",2,648,0.0432
+"Mechanical Keyboard, Soda Can",2,648,0.0432
+"Butter, Green Tea, White Bread",3,647,0.0431
+"Eggs (12pk), Onions",2,643,0.0429
+"Mechanical Keyboard, Tomatoes",2,642,0.0428
+"Onions, Soda Can",2,642,0.0428
+"Basmati Rice, Ground Coffee, Onions",3,642,0.0428
+"Cookies, Onions",2,642,0.0428
+"Ground Coffee, Olive Oil, Pasta",3,640,0.0427
+"Cookies, Potato Chips",2,640,0.0427
+"Dark Chocolate, Olive Oil, Pasta",3,637,0.0425
+"Olive Oil, Soda Can",2,637,0.0425
+"Tomatoes, Whole Milk",2,635,0.0423
+"Olive Oil, Pasta, Potato Chips",3,634,0.0423
+"Cookies, Toothbrush",2,635,0.0423
+"Basmati Rice, Onions, Potato Chips",3,633,0.0422
+"Eggs (12pk), Ground Coffee",2,633,0.0422
+"Eggs (12pk), Pasta",2,633,0.0422
+"Cookies, Whole Milk",2,631,0.0421
+"Dark Chocolate, Tomatoes",2,630,0.042
+"Cookies, Pasta",2,630,0.042
+"Cookies, Mechanical Keyboard",2,628,0.0419
+"Basmati Rice, Cookies",2,627,0.0418
+"Eggs (12pk), Olive Oil",2,625,0.0417
+"Basmati Rice, Eggs (12pk)",2,624,0.0416
+"Eggs (12pk), Toothbrush",2,622,0.0415
+"Basmati Rice, Soda Can",2,623,0.0415
+"Basmati Rice, Onions, Shampoo",3,623,0.0415
+"Tomato Sauce, White Bread, Whole Milk",3,621,0.0414
+"Conditioner, Tomato Sauce",2,621,0.0414
+"Conditioner, White Bread, Whole Milk",3,621,0.0414
+"Laptop Stand, Mechanical Keyboard, White Bread",3,620,0.0413
+"Pasta, Soda Can",2,618,0.0412
+"Potato Chips, Tomatoes",2,618,0.0412
+"Ground Coffee, Soda Can",2,616,0.0411
+"Cookies, Olive Oil",2,616,0.0411
+"Shampoo, Soda Can",2,616,0.0411
+"Eggs (12pk), Whole Milk",2,617,0.0411
+"Olive Oil, Pasta, Toothbrush",3,614,0.0409
+"Conditioner, Toothpaste",2,613,0.0409
+"Eggs (12pk), Shampoo",2,612,0.0408
+"Cookies, Shampoo",2,610,0.0407
+"Shampoo, Tomatoes",2,610,0.0407
+"Eggs (12pk), Mechanical Keyboard",2,607,0.0405
+"Dark Chocolate, Eggs (12pk)",2,605,0.0403
+"Mouse Pad, Tomato Sauce",2,601,0.0401
+"Toothpaste, White Bread, Whole Milk",3,600,0.04
+"Conditioner, Mechanical Keyboard, Wireless Mouse",3,596,0.0397
+"Mechanical Keyboard, Tomato Sauce, Wireless Mouse",3,592,0.0395
+"Mouse Pad, White Bread, Whole Milk",3,591,0.0394
+"Dark Chocolate, Green Tea, Wireless Mouse",3,591,0.0394
+"Butter, Laptop Stand, Wireless Mouse",3,590,0.0393
+"Tomato Sauce, Toothpaste",2,585,0.039
+"Laptop Stand, Potato Chips",2,585,0.039
+"Ground Coffee, Mouse Pad, Wireless Mouse",3,585,0.039
+"Mechanical Keyboard, Toothpaste, Wireless Mouse",3,585,0.039
+"Soda Can, Toothbrush",2,583,0.0389
+"Butter, Olive Oil, Whole Milk",3,584,0.0389
+"Conditioner, Mouse Pad",2,582,0.0388
+"Eggs (12pk), White Bread, Whole Milk",3,581,0.0387
+"Laptop Stand, Onions",2,579,0.0386
+"Basmati Rice, Onions, Tomato Sauce",3,579,0.0386
+"Laptop Stand, Pasta",2,579,0.0386
+"Conditioner, Shampoo, Whole Milk",3,578,0.0385
+"Conditioner, Olive Oil, Pasta",3,577,0.0385
+"Ground Coffee, Laptop Stand",2,577,0.0385
+"Basmati Rice, Conditioner, Onions",3,574,0.0383
+"Butter, Potato Chips, Whole Milk",3,575,0.0383
+"Butter, Onions, Whole Milk",3,575,0.0383
+"Olive Oil, Tomato Sauce, Whole Milk",3,574,0.0383
+"Mouse Pad, Whole Milk, Wireless Mouse",3,573,0.0382
+"Eggs (12pk), Tomato Sauce",2,571,0.0381
+"Tomato Sauce, Tomatoes",2,571,0.0381
+"Conditioner, Onions, Shampoo",3,569,0.0379
+"Laptop Stand, Olive Oil",2,569,0.0379
+"Dark Chocolate, Mouse Pad, Wireless Mouse",3,568,0.0379
+"Butter, Pasta, Whole Milk",3,569,0.0379
+"Green Tea, Toothbrush",2,567,0.0378
+"Basmati Rice, Toothbrush, Toothpaste",3,565,0.0377
+"Mouse Pad, Potato Chips, Wireless Mouse",3,565,0.0377
+"Green Tea, Onions",2,565,0.0377
+"Basmati Rice, Conditioner, Shampoo",3,565,0.0377
+"Conditioner, Olive Oil, Shampoo",3,566,0.0377
+"Pasta, Tomato Sauce, Whole Milk",3,564,0.0376
+"Cookies, Toothpaste",2,563,0.0375
+"Onions, Pasta, Tomato Sauce",3,562,0.0375
+"Conditioner, Eggs (12pk)",2,563,0.0375
+"Olive Oil, Onions, Tomato Sauce",3,563,0.0375
+"Basmati Rice, Butter, Whole Milk",3,561,0.0374
+"Mouse Pad, Olive Oil, Wireless Mouse",3,561,0.0374
+"Conditioner, Pasta, Shampoo",3,560,0.0373
+"Basmati Rice, Green Tea",2,558,0.0372
+"Mouse Pad, Toothpaste",2,558,0.0372
+"Butter, Ground Coffee, Whole Milk",3,556,0.0371
+"Soda Can, White Bread, Whole Milk",3,556,0.0371
+"Butter, Toothbrush, Whole Milk",3,555,0.037
+"Butter, Laptop Stand, Mechanical Keyboard",3,553,0.0369
+"Dark Chocolate, Green Tea, White Bread",3,553,0.0369
+"Dark Chocolate, Laptop Stand",2,553,0.0369
+"Olive Oil, Pasta, Toothpaste",3,552,0.0368
+"Basmati Rice, Onions, Toothpaste",3,552,0.0368
+"Mouse Pad, Onions, Wireless Mouse",3,551,0.0367
+"Basmati Rice, Pasta, Tomato Sauce",3,549,0.0366
+"Laptop Stand, Shampoo",2,549,0.0366
+"Mouse Pad, Soda Can",2,549,0.0366
+"Basmati Rice, Olive Oil, Tomato Sauce",3,548,0.0365
+"Mouse Pad, Olive Oil, Pasta",3,547,0.0365
+"Laptop Stand, Toothbrush",2,548,0.0365
+"Green Tea, Pasta",2,548,0.0365
+"Tomatoes, Toothpaste",2,548,0.0365
+"Green Tea, Ground Coffee",2,546,0.0364
+"Onions, Toothbrush, Toothpaste",3,546,0.0364
+"Mechanical Keyboard, Olive Oil, Tomato Sauce",3,546,0.0364
+"Basmati Rice, Laptop Stand",2,544,0.0363
+"Mechanical Keyboard, Pasta, Tomato Sauce",3,544,0.0363
+"Green Tea, Mechanical Keyboard",2,545,0.0363
+"Conditioner, Tomatoes",2,545,0.0363
+"Basmati Rice, Mouse Pad, Onions",3,544,0.0363
+"Conditioner, Mechanical Keyboard, Shampoo",3,543,0.0362
+"Conditioner, Shampoo, Toothbrush",3,543,0.0362
+"Cookies, Mouse Pad",2,541,0.0361
+"Mouse Pad, Pasta, Wireless Mouse",3,542,0.0361
+"Ground Coffee, Toothbrush, Toothpaste",3,542,0.0361
+"Onions, White Bread, Wireless Mouse",3,542,0.0361
+"Conditioner, Soda Can",2,542,0.0361
+"Laptop Stand, Whole Milk",2,542,0.0361
+"Green Tea, Potato Chips",2,540,0.036
+"Toothbrush, Toothpaste, Whole Milk",3,538,0.0359
+"Shampoo, Toothbrush, Toothpaste",3,536,0.0357
+"Olive Oil, Shampoo, Tomato Sauce",3,534,0.0356
+"Conditioner, Ground Coffee, Shampoo",3,534,0.0356
+"Mechanical Keyboard, Soda Can, Wireless Mouse",3,534,0.0356
+"Mouse Pad, Shampoo, Wireless Mouse",3,534,0.0356
+"Pasta, Toothbrush, Toothpaste",3,534,0.0356
+"Butter, Eggs (12pk), Whole Milk",3,533,0.0355
+"Cookies, Tomato Sauce",2,533,0.0355
+"Butter, Shampoo, Whole Milk",3,532,0.0355
+"Ground Coffee, Olive Oil, Tomato Sauce",3,532,0.0355
+"Conditioner, Cookies",2,533,0.0355
+"Tomatoes, White Bread, Whole Milk",3,531,0.0354
+"Soda Can, Tomato Sauce",2,531,0.0354
+"Mouse Pad, Tomatoes",2,530,0.0353
+"Basmati Rice, Mouse Pad, Wireless Mouse",3,530,0.0353
+"Butter, Mechanical Keyboard, Whole Milk",3,530,0.0353
+"Green Tea, Olive Oil",2,530,0.0353
+"Butter, Dark Chocolate, Whole Milk",3,528,0.0352
+"Pasta, Shampoo, Tomato Sauce",3,526,0.0351
+"Ground Coffee, Pasta, Tomato Sauce",3,527,0.0351
+"Mechanical Keyboard, Toothbrush, Toothpaste",3,525,0.035
+"Potato Chips, White Bread, Wireless Mouse",3,523,0.0349
+"Olive Oil, Potato Chips, Tomato Sauce",3,523,0.0349
+"Dark Chocolate, Olive Oil, Tomato Sauce",3,523,0.0349
+"Conditioner, Potato Chips, Shampoo",3,524,0.0349
+"Dark Chocolate, Toothbrush, Toothpaste",3,522,0.0348
+"Eggs (12pk), Mouse Pad",2,521,0.0347
+"Eggs (12pk), Toothpaste",2,520,0.0347
+"Pasta, Potato Chips, Tomato Sauce",3,520,0.0347
+"Dark Chocolate, Pasta, Tomato Sauce",3,521,0.0347
+"Mechanical Keyboard, Tomatoes, Wireless Mouse",3,519,0.0346
+"Cookies, White Bread, Whole Milk",3,517,0.0345
+"Basmati Rice, White Bread, Wireless Mouse",3,517,0.0345
+"Olive Oil, Pasta, Tomatoes",3,516,0.0344
+"Basmati Rice, Cookies, Onions",3,512,0.0341
+"Olive Oil, White Bread, Wireless Mouse",3,509,0.0339
+"Conditioner, Dark Chocolate, Shampoo",3,509,0.0339
+"Cookies, Mechanical Keyboard, Wireless Mouse",3,509,0.0339
+"Cookies, Tomatoes",2,508,0.0339
+"Laptop Stand, Tomato Sauce",2,507,0.0338
+"Mouse Pad, Toothbrush, Wireless Mouse",3,505,0.0337
+"Eggs (12pk), Olive Oil, Pasta",3,504,0.0336
+"Butter, Dark Chocolate, Green Tea",3,502,0.0335
+"Potato Chips, Soda Can, Whole Milk",3,502,0.0335
+"Pasta, White Bread, Wireless Mouse",3,501,0.0334
+"Olive Oil, Toothbrush, Toothpaste",3,499,0.0333
+"Cookies, Eggs (12pk)",2,499,0.0333
+"Basmati Rice, Eggs (12pk), Onions",3,499,0.0333
+"Soda Can, Toothpaste",2,498,0.0332
+"Dark Chocolate, White Bread, Wireless Mouse",3,498,0.0332
+"Green Tea, Shampoo",2,497,0.0331
+"Butter, Tomato Sauce, Whole Milk",3,496,0.0331
+"Eggs (12pk), Potato Chips, White Bread",3,496,0.0331
+"Olive Oil, Onions, Tomatoes",3,497,0.0331
+"Butter, Conditioner, Whole Milk",3,495,0.033
+"Basmati Rice, Onions, Soda Can",3,494,0.0329
+"Basmati Rice, Olive Oil, Tomatoes",3,493,0.0329
+"Eggs (12pk), Mechanical Keyboard, Wireless Mouse",3,494,0.0329
+"Olive Oil, Pasta, Soda Can",3,492,0.0328
+"Laptop Stand, Mouse Pad",2,490,0.0327
+"Laptop Stand, Toothpaste",2,490,0.0327
+"Butter, Toothpaste, Whole Milk",3,490,0.0327
+"Pasta, Tomato Sauce, Toothbrush",3,489,0.0326
+"Ground Coffee, White Bread, Wireless Mouse",3,489,0.0326
+"Shampoo, White Bread, Wireless Mouse",3,488,0.0325
+"Eggs (12pk), Soda Can",2,488,0.0325
+"Cookies, Olive Oil, Pasta",3,487,0.0325
+"Olive Oil, Tomato Sauce, Toothbrush",3,488,0.0325
+"Mechanical Keyboard, Potato Chips, Soda Can",3,488,0.0325
+"Potato Chips, Toothbrush, Toothpaste",3,487,0.0325
+"Butter, Eggs (12pk), Potato Chips",3,486,0.0324
+"Onions, Tomatoes, Toothbrush",3,484,0.0323
+"Basmati Rice, Tomatoes, Toothbrush",3,485,0.0323
+"Ground Coffee, Onions, Tomatoes",3,484,0.0323
+"Eggs (12pk), Pasta, White Bread",3,483,0.0322
+"Basmati Rice, Ground Coffee, Tomatoes",3,483,0.0322
+"Green Tea, Whole Milk",2,483,0.0322
+"Dark Chocolate, Potato Chips, Soda Can",3,482,0.0321
+"Soda Can, Tomatoes",2,481,0.0321
+"Eggs (12pk), Onions, White Bread",3,481,0.0321
+"Onions, Pasta, Tomatoes",3,482,0.0321
+"Eggs (12pk), Ground Coffee, White Bread",3,480,0.032
+"Conditioner, Laptop Stand",2,480,0.032
+"Cookies, Dark Chocolate, Ground Coffee",3,479,0.0319
+"Eggs (12pk), Olive Oil, White Bread",3,479,0.0319
+"Mechanical Keyboard, Onions, Tomatoes",3,477,0.0318
+"Onions, Potato Chips, Soda Can",3,476,0.0317
+"Butter, Eggs (12pk), Ground Coffee",3,476,0.0317
+"Laptop Stand, Soda Can",2,475,0.0317
+"Cookies, Soda Can",2,474,0.0316
+"Basmati Rice, Pasta, Tomatoes",3,474,0.0316
+"Green Tea, Toothpaste",2,474,0.0316
+"Conditioner, Shampoo, Tomato Sauce",3,474,0.0316
+"Cookies, Ground Coffee, Potato Chips",3,472,0.0315
+"Butter, Eggs (12pk), Onions",3,471,0.0314
+"Mouse Pad, Tomato Sauce, Wireless Mouse",3,471,0.0314
+"Eggs (12pk), Toothbrush, White Bread",3,470,0.0313
+"Eggs (12pk), Tomatoes",2,469,0.0313
+"Basmati Rice, Eggs (12pk), White Bread",3,469,0.0313
+"Basmati Rice, Mechanical Keyboard, Tomatoes",3,468,0.0312
+"Butter, Eggs (12pk), Toothbrush",3,468,0.0312
+"Basmati Rice, Dark Chocolate, Tomatoes",3,468,0.0312
+"Butter, Eggs (12pk), Olive Oil",3,466,0.0311
+"Conditioner, Olive Oil, Tomato Sauce",3,466,0.0311
+"Butter, Eggs (12pk), Pasta",3,466,0.0311
+"Dark Chocolate, Onions, Tomatoes",3,466,0.0311
+"Butter, Onions, Wireless Mouse",3,466,0.0311
+"Eggs (12pk), Mechanical Keyboard, White Bread",3,466,0.0311
+"Basmati Rice, Butter, Eggs (12pk)",3,464,0.0309
+"Onions, Tomatoes, Whole Milk",3,462,0.0308
+"Conditioner, Shampoo, Toothpaste",3,462,0.0308
+"Cookies, Ground Coffee, Toothbrush",3,460,0.0307
+"Eggs (12pk), Shampoo, White Bread",3,460,0.0307
+"Butter, Eggs (12pk), Mechanical Keyboard",3,461,0.0307
+"Conditioner, Mouse Pad, Wireless Mouse",3,461,0.0307
+"Green Tea, Tomato Sauce",2,460,0.0307
+"Basmati Rice, Tomatoes, Whole Milk",3,461,0.0307
+"Mouse Pad, Olive Oil, Tomato Sauce",3,458,0.0305
+"Conditioner, Toothbrush, Toothpaste",3,458,0.0305
+"Potato Chips, Shampoo, Soda Can",3,458,0.0305
+"Toothbrush, White Bread, Wireless Mouse",3,458,0.0305
+"Conditioner, Pasta, Tomato Sauce",3,457,0.0305
+"Laptop Stand, Mouse Pad, Wireless Mouse",3,458,0.0305
+"Cookies, Ground Coffee, Whole Milk",3,454,0.0303
+"Butter, Mouse Pad, Whole Milk",3,455,0.0303
+"Butter, Eggs (12pk), Shampoo",3,455,0.0303
+"Basmati Rice, Potato Chips, Soda Can",3,455,0.0303
+"Mouse Pad, Soda Can, Wireless Mouse",3,455,0.0303
+"Cookies, Ground Coffee, Pasta",3,454,0.0303
+"Dark Chocolate, Eggs (12pk), White Bread",3,454,0.0303
+"Green Tea, Mechanical Keyboard, Wireless Mouse",3,453,0.0302
+"Olive Oil, Potato Chips, Soda Can",3,453,0.0302
+"Basmati Rice, Potato Chips, Tomatoes",3,453,0.0302
+"Cookies, Ground Coffee, Onions",3,451,0.0301
+"Butter, Soda Can, Whole Milk",3,451,0.0301
+"Ground Coffee, Potato Chips, Soda Can",3,451,0.0301
+"Onions, Potato Chips, Tomatoes",3,451,0.0301
+"Laptop Stand, White Bread, Whole Milk",3,451,0.0301
+"Butter, Potato Chips, Wireless Mouse",3,450,0.03
+"Mouse Pad, Pasta, Tomato Sauce",3,450,0.03
+"Basmati Rice, Cookies, Ground Coffee",3,450,0.03
